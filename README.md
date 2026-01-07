@@ -29,6 +29,20 @@ This project demonstrates practical use of Java OOP principles, GUI design, and 
 - **Serialization** for file-based data storage  
 - **MVC-style application structure**
 
+## 📸 Screenshots
+
+### 🏠 About
+![About](screenshots/about.png)
+
+### 📅 Events Page
+![Events Page](screenshots/events.png)
+
+### 👥 Participants Page
+![Participants Page](screenshots/participants.png)
+
+### 📝 Registration Page
+![Registration Page](screenshots/registration.png)
+
 ---
 
 ## 🛠️ How to Run
