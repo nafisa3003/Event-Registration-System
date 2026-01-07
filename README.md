@@ -11,7 +11,7 @@ This application allows users to:
 - View and search events and participants  
 - Store data persistently using `.ser` files (serialization)
 
-This project demonstrates practical use of Java OOP principles, GUI design, and file-based persistence for desktop applications. :contentReference[oaicite:1]{index=1}
+This project demonstrates practical use of Java OOP principles, GUI design, and file-based persistence for desktop applications. 
 
 ## 🚀 Features
 
@@ -20,7 +20,7 @@ This project demonstrates practical use of Java OOP principles, GUI design, and 
 ✔ Register participants for events  
 ✔ Search and sort lists  
 ✔ Simple and intuitive UI using Java Swing  
-✔ Persistent data storage with `.ser` files (no database needed) :contentReference[oaicite:2]{index=2}
+✔ Persistent data storage with `.ser` files (no database needed)
 
 ## 📁 Technologies Used
 
